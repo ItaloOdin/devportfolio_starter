@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+.nav__link {
+  @apply relative text-base font-medium w-fit block text-white pt-6;
+}
+
+.nav__link::after {
+  content: '';
+  @apply absolute bottom-0 left-0 h-[3px] bg-yellow-400 w-full scale-x-0 transition-transform duration-300;
+  transform-origin: bottom left;
+}
+
+.nav__link:hover::after {
+  @apply scale-x-100;
+}
+}
