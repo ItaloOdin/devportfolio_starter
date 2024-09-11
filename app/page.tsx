@@ -1,9 +1,11 @@
-import Home from "@/components/Home/Home";
+import About from "@/components/Home/About/About";
+import Hero from "@/components/Home/Hero/Hero";
 import React from "react";
 
 const HomePage = () => {
-  return <div className="overflow">
-    <Home />
+  return <div className="h-[10000px]">
+<Hero />
+<About/>
   </div>;
 };
 

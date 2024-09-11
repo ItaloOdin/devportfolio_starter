@@ -1,9 +1,8 @@
 export const BaseInfo = {
-  name: "Sajal",
-  position: "Full Stack Web Developer",
-  description:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit porro numquam ad, vero consequuntur aperiam cumque voluptatum pariatur veniam? Qui facilis est ipsam odio cum!",
-  profilePic: "/images/hero.png",
+  name: "Italo Kevyn",
+  position: "Front-End Developer",
+  description: 'Sou estagiário de Front-End com grande entusiasmo por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades em HTML, CSS e JavaScript, e tenho experiência prática em projetos que envolvem frameworks modernos e boas práticas de design responsivo  ',
+  profilePic: "/images/Hero.png",
 };
 
 export const aboutInfo = {
