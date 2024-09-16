@@ -6,9 +6,9 @@ export const BaseInfo = {
 };
 
 export const aboutInfo = {
-  title: "Crafting Web Application with Passion and Precision",
+  title: "Construindo um Front End com dedicação e vontade sempre trazendo design e eficiência",
   description:
-    "At webdev warriors, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise, we help businesses elevate their online presence and achieve their goals",
+    " desenvolvedor comprometido em oferecer soluções web personalizadas. Com uma combinação de criatividade e expertise técnica, ajudamos empresas a elevar sua presença online e alcançar seus objetivos.",
   client: "50+",
   experience: "3+",
   project: "200+",

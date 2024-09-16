@@ -5,7 +5,7 @@ import React from "react";
 const HomePage = () => {
   return <div className="h-[10000px]">
 <Hero />
-<About/>
+<About/>  
   </div>;
 };
 
