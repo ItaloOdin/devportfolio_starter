@@ -10,8 +10,8 @@ export const aboutInfo = {
   description:
     " desenvolvedor comprometido em oferecer soluções web personalizadas. Com uma combinação de criatividade e expertise técnica, ajudamos empresas a elevar sua presença online e alcançar seus objetivos.",
   client: "50+",
-  experience: "3+",
-  project: "200+",
+  experience: "1",
+  project: "1",
   website: "100+",
 };
 

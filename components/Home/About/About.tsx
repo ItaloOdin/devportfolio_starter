@@ -41,7 +41,14 @@ const About = () => {
 
           <div className=' grid grid-cols-2 gap-16 items-center lg:mx-auto'>
           <div>
-            <Image src="/images/customer.png" alt='image' width={80} height={80} className='mx-auto'/>
+            <Image src="/images/experience.png" alt='image' width={80} height={80} className='mx-auto'/>
+            <p className='mt-3 font-bold text-xl text-white text-center'>{aboutInfo.experience} </p>
+            <p className='text-base sm:text-lg text-gray-400'>Anos de experiencia</p>
+             </div>
+             <div>
+            <Image src="/images/completed.png" alt='image' width={80} height={80} className='mx-auto'/>
+            <p className='mt-3 font-bold text-xl text-white text-center'>{aboutInfo.project} </p>
+            <p className='text-base sm:text-lg text-gray-400'>Anos de experiencia</p>
              </div>
             </div>
         </div>
